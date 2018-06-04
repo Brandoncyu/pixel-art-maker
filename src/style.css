@@ -60,6 +60,6 @@
   background-color: white
 }
 
-#erase{
-  background-color: erase
+#current-color{
+  font-weight: bold
 }
